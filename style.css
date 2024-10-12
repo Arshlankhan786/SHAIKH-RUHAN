@@ -1,0 +1,168 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: arial;
+}
+
+
+/* .w-br {
+    border: 5px solid red;
+} */
+b-rg {
+    background-color: black;
+}
+
+/* .r-br {
+    border: 5px solid white;
+}
+
+.c-br {
+    border: 1px solid grey;
+}
+
+.b-br {
+    border: 5px solid blue;
+} */
+
+.b-bg {
+    background-color: #5196be;
+}
+
+.x-bg {
+    background-color: #dee2e6;
+}
+
+.r-bg {
+    background: #abb8c3;
+}
+
+.c-br {
+    border: 5px solid black;
+}
+
+.vh-150 {
+    min-height: 150vh
+}
+
+.w-100 {
+    width: 100%;
+}
+
+.w-70 {
+    width: 70%;
+}
+
+.w-80 {
+    width: 80%;
+}
+
+.vh-5 {
+    min-height: 5vh
+}
+
+.vh-25 {
+    min-height: 25vh
+}
+
+.vh-30 {
+    min-height: 30vh
+}
+
+.vh-35 {
+    min-height: 35vh
+}
+
+.vh-120 {
+    min-height: 120vh
+}
+
+.vh-100 {
+    min-height: 100vh
+}
+
+.vh-200 {
+    min-height: 200vh
+}
+
+.vh-90 {
+    min-height: 90vh
+}
+
+.vh-70 {
+    min-height: 70vh
+}
+
+.vh-80 {
+    min-height: 80vh
+}
+
+.vh-40 {
+    min-height: 40vh
+}
+
+.vh-10 {
+    min-height: 10vh
+}
+.w-30 {
+    min-width:30%
+}
+
+.vh-50 {
+    min-height: 50vh;
+}
+
+.vh-60 {
+    min-height: 30vh
+}
+
+.vh-60 {
+    min-height: 30vh
+}
+
+.vh-40 {
+    min-height: 40vh
+}
+
+a.nav-link {
+    color: white;
+
+}
+
+a.nav-link:hover {
+    color: rgb(237, 209, 48);
+
+}
+
+a.nav-link:hover .fa-chevron-down {
+    transform: rotate(360deg);
+    transition: .3s linear;
+}
+
+
+
+.nav-span {
+    transition: .2s linear;
+    width: 28px;
+}
+
+.nav-span:nth-child(2) {
+    transition: .2s linear;
+    width: 20px;
+}
+
+.nav-span:hover:nth-child(2) {
+    width: 28px;
+    transition: .2s linear;
+
+}
+.right-section-1 button{
+    background-color: #1C2D37;
+    padding: 15px 10px;width: 30%;border-radius: 10px;color:white;font-size: 20px;
+}
+.right-section-1 button:hover {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(134, 75, 75);
+    background-color:black;
+    font-weight: bolder;
+}
